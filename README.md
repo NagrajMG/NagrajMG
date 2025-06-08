@@ -1,4 +1,9 @@
-## Hi there 👋
+# 👋 Hi, I’m Nagraj Gaonkar
+- 🏫 I'm a Sophomore @ IIT Madras 
+- 💻 I'm interested in learning more about AI/ML, algorithms and mathematics.
+- 📫 Email : nagrajgaonkarmumbai749@gmail.com
+- 🔗 LinkedIn : [Nagraj Gaonkar](https://www.linkedin.com/in/nagraj-gaonkar-227922303/)
+- ⚡ Fun fact : I am currently more inclined towards competitive programming.
 
 <!--
 **NagrajMG/NagrajMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
