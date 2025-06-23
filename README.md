@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Nagraj Gaonkar
 - 🏫 I'm a Sophomore @ IIT Madras 
 - 💻 I'm interested in learning more about AI/ML, algorithms and mathematics.
-- 📫 Email : nagrajgaonkarmumbai749@gmail.com
-- 🔗 LinkedIn : [Nagraj Gaonkar](https://www.linkedin.com/in/nagraj-gaonkar-227922303/)
 - ❤️ Fun fact : I am currently more inclined towards competitive programming.
 
 <!--
@@ -18,4 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ❤️ Fun fact: ...
+- 📫 Email : nagrajgaonkarmumbai749@gmail.com
+- 🔗 LinkedIn : [Nagraj Gaonkar](https://www.linkedin.com/in/nagraj-gaonkar-227922303/)
 -->
